@@ -1,15 +1,19 @@
 # Free Personal Portfolio Template
+
 A free, public template for anyone to kick-start their personal, online portfolio website. It's clean, simple, and covers the basics.
 
-**View Demo:** [https://morganjlopes.github.io/portfolio-template/](https://morganjlopes.github.io/portfolio-template/)
+**View Demo:** [https://scriabinop8no12.github.io/portfolio-website/](https://scriabinop8no12.github.io/portfolio-website/)
 
 ## Tools Used
+
 - Bootstrap
 - Bootstrap Icons
 - Google Font (DM Serif Display)
 
 ## Portfolio Sections
+
 Each section has been intentionally placed to highlight key areas of your overall portfolio.
+
 - Overview of You (Clear and Concise)
 - Employment Logo Bar (Notable places you've worked)
 - Featured Portfolio Items (~3)
@@ -20,7 +24,9 @@ Each section has been intentionally placed to highlight key areas of your overal
 - Call to Action (Download Resume, Connect on Linkedin, Send Email, Schedule a Call, etc)
 
 ## Todos (If you use for yourself)
+
 A simple checklist to kick-start your new personal portfolio.
+
 - `$> git clone git@github.com:morganjlopes/portfolio-template.git`
 - Open index.html in text editor.
 - Replace all instances of 'morganjlopes' with your respective username (per platform).
@@ -29,7 +35,9 @@ A simple checklist to kick-start your new personal portfolio.
 - Choose your own call to action : Download Resume, Connect on Linkedin, Send Email, Schedule a Call
 
 ## Simple Changes to Modify Appearance
+
 Little tweeks can go a long way. Make the theme your own without reinventing the wheel.
+
 - change border radius (classes: .btn, .card)
 - change primary color (classes: .btn, .bg-primary, .marker-highlight)
 - change background colors
