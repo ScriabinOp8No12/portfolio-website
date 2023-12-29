@@ -1,18 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap");
 
-h1, .h1,
-h2, .h2,
-h3, .h3,
-h4, .h4,
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
 blockquote {
-  font-family: 'DM Serif Display', serif;
+  font-family: "DM Serif Display", serif;
 }
 
-h1, .h1 {
+h1,
+.h1 {
   font-size: 65px;
 }
 
-h2, .h2 {
+h2,
+.h2 {
   font-size: 45px;
 }
 
@@ -24,14 +30,15 @@ blockquote {
   font-size: 28px;
 }
 
-sup, .sup {
+sup,
+.sup {
   text-transform: uppercase;
   font-weight: 600;
   font-size: 16px;
 }
 
 .underline::after {
-  content: ' ';
+  content: " ";
   border-bottom: 3px solid;
   position: relative;
   display: block;
@@ -103,17 +110,19 @@ header.p-section {
 }
 
 .btn {
-  letter-spacing: .15em;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
-  padding: .65rem 1.5rem;
+  padding: 0.65rem 1.5rem;
 }
 
-.btn-group-lg>.btn, .btn-lg {
-  padding: .75rem 2rem;
+.btn-group-lg > .btn,
+.btn-lg {
+  padding: 0.75rem 2rem;
 }
 
-.btn-group-sm>.btn, .btn-sm {
-  padding: .30rem .75rem;
+.btn-group-sm > .btn,
+.btn-sm {
+  padding: 0.3rem 0.75rem;
 }
 
 .testimonial-item {
